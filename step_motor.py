@@ -1,3 +1,4 @@
+# http://atceiling.blogspot.hk/2014/02/raspberry-pi_27.html
 import RPi.GPIO as GPIO
 import time
 
